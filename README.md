@@ -13,7 +13,9 @@ A Tinder-like News App
 
 
 
-
+<br>
+<br>
+<br>
 Actual operation screenshots:
 
 ![image](https://user-images.githubusercontent.com/41571096/167320175-84abb6fb-57e9-4478-a01a-853dd099dbe2.png)
